@@ -1,6 +1,5 @@
-#BUGS:
-#Chloe shows up twice
-#if not selected in the list, shouldnt show up on the final excel sheet -> right now it is pulling many people not included?
+#Created by Allan Foote
+#Time Audit generator for work. Uses Wrike information and a tableau sheet you upload to automatically generate reports.
 
 import tkinter as tk
 from tkinter import simpledialog, messagebox, filedialog, ttk, Checkbutton, Scrollbar, VERTICAL, HORIZONTAL
